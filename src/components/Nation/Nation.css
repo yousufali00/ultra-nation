@@ -1,0 +1,33 @@
+.single-country{
+    padding: 25px 40px;
+    margin-top: 150px;
+    border: 1px solid gray;
+    border-radius: 10px; 
+    box-shadow: 0px 0px 28px -6px rgba(0,0,0,0.75);
+}
+.single-country .country-image{
+    border: 2px solid red;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-top: -100px;
+}
+
+.single-country .title{
+    margin-top: 16px;
+    font-size: 25px;
+}
+.single-country .line{
+    border-bottom: 3px solid gray;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.single-country .region{
+    font-size: 20px;
+}
+.single-country .capital{
+    font-size: 20px;
+}
+.single-country .population{
+    font-size: 16px;
+}
